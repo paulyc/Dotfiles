@@ -1,8 +1,6 @@
 # My Dotfiles
 
-Zach Holman: "Your dotfiles are how you personalize your system. These are mine."
-
-My dotfiles are pretty standard, sort of a piecemeal of others like holman and mathiasbynens.
+Without me, my Dotfiles are nothing. Without my Dotfiles, I am nothing.
 
 ## Installation
 
